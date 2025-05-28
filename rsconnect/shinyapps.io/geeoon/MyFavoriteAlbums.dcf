@@ -1,0 +1,12 @@
+name: MyFavoriteAlbums
+title: MyFavoriteAlbums
+username: geeoon
+account: geeoon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14778399
+bundleId: 10303540
+url: https://geeoon.shinyapps.io/MyFavoriteAlbums/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
