@@ -1,5 +1,4 @@
 # this file defines functions related to the release year of albums
-
 # Grab the music data.
 # See documentation for how to format the data
 album_data <- read.csv("data/album-rankings.csv")
